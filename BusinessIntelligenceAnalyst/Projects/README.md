@@ -30,8 +30,6 @@
 - **Churn Prediction Model** – Predict customer attrition for retention planning.  
 - **Cross-Department Performance Dashboard** – Unified reporting for HR, Finance, Ops.
 
-# Python Project Ideas for BI Analyst Roles
-
 ## 🏥 Healthcare
 - **Readmission Risk Classifier** – Predict which patients are likely to be readmitted.  
 - **Patient No-Show Predictor** – Use historical scheduling data to forecast missed appointments.  
