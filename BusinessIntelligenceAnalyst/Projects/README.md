@@ -168,3 +168,44 @@
 24. Macro for Ad-hoc Report Validation (QA checks).  
 25. Interactive Userform for BI Queries (SQL input → Excel output).  
 
+---
+
+## 📱 Flutter Projects
+1. **Mobile BI Dashboard App** – Offline-first KPI dashboards for healthcare or finance.  
+2. **Cross-Department Alert System** – Push notifications for anomalies in claims or revenue.  
+3. **Patient Engagement Tracker** – Mobile app for patient call center performance metrics.  
+4. **Construction Site Monitor** – Real-time safety + equipment usage dashboard.  
+5. **Risk Heatmap App** – Interactive maps showing operational risks by region.  
+6. **BI Report Generator** – Analysts enter parameters, app exports branded PDF reports.  
+7. **Survey Insights App** – Upload CSV survey results → get charts + sentiment scoring.  
+8. **Expense Approval Workflow** – Manager app for approving flagged expenses.  
+9. **Hospital Bed Utilization App** – Live bed counts + forecast modeling.  
+10. **Offline Data Collection App** – Field workers sync data to central BI dashboards.  
+
+---
+
+## 🌐 Next.js Projects
+1. **Executive BI Portal** – Web app for C-suite to view secure dashboards + reports.  
+2. **Natural Language SQL Query Tool** – Type “show Q2 patient churn” → auto SQL + chart.  
+3. **Revenue Forecast Web Dashboard** – Predictive finance visualizations with drilldowns.  
+4. **Claims Data Quality Checker** – Upload files, web app highlights errors + inconsistencies.  
+5. **Ad-Hoc BI Report Builder** – Drag-and-drop report builder that exports to Power BI/Excel.  
+6. **Supply Chain Intelligence Portal** – Vendors tracked by KPIs and delivery risk scoring.  
+7. **Data Governance Audit Tool** – Web app to validate schema, nulls, and rule violations.  
+8. **ETL Job Monitor** – Dashboard showing ETL runs, errors, and success rates.  
+9. **Real-Time Operations Dashboard** – Streaming API integration for live KPIs.  
+10. **Global Risk Tracker** – Heatmap web tool combining financial + healthcare indicators.  
+
+---
+
+## 📲 React Native Projects
+1. **Mobile BI Assistant** – Chat-based interface for pulling KPIs on demand.  
+2. **On-the-Go Revenue Tracker** – Quick snapshots of financial performance for managers.  
+3. **Healthcare Compliance Checklist App** – Track audits + send alerts on gaps.  
+4. **Construction Field Reporting App** – Workers log issues → dashboards auto-update.  
+5. **Patient Survey Mobile App** – Collects data, pushes to BI backend for sentiment analysis.  
+6. **KPI Push Notification App** – Sends alerts when thresholds (like missed calls) are exceeded.  
+7. **Multi-Org BI App** – Single app that switches between healthcare, finance, and ops datasets.  
+8. **Operational Efficiency Tracker** – Mobile dashboard with daily staff performance data.  
+9. **Incident Log App** – Users submit incident reports → auto-visualized in BI dashboards.  
+10. **Financial Snapshot App** – Instant balance sheets and cash flow for executives.  
