@@ -7,39 +7,50 @@ The City of Carson is seeking a highly motivated individual to fill the newly cr
 
 
 ### Required 
-A Bachelor’s Degree or four years of related experience in lieu of a degree or a combination of education/experience.
-A minimum of 2 years of related experience to include reporting and analysis and strong investigative experience.
-Ability to develop a fundamental understanding of intelligence processes in a correctional environment to include institutional operations and criminal procedures.
-Excellent verbal and written communication skills.
-Prepared to testify in court or other administrative related hearings as needed.
-Proficient in Microsoft Windows OS and Microsoft Suite.
-Ability to learn ViaPath and third-party software applications within the first six months of hire.
-Ability to work in a fast-paced environment and meet deadlines.
-Strong problem-solving skills with an interest and ability to conduct analysis and report on findings.
-Pro-active.
-Ability to handle confidential information.
-Fluency (written and verbal) in English is required.
+- A Bachelor’s Degree or four years of related experience in lieu of a degree or a combination of education/experience.
+- A minimum of 2 years of related experience to include reporting and analysis and strong investigative experience.
+- Ability to develop a fundamental understanding of intelligence processes in a correctional environment to include institutional operations and criminal procedures.
+- Excellent verbal and written communication skills.
+- Prepared to testify in court or other administrative related hearings as needed.
+- Proficient in Microsoft Windows OS and Microsoft Suite.
+- Ability to learn ViaPath and third-party software applications within the first six months of hire.
+- Ability to work in a fast-paced environment and meet deadlines.
+- Strong problem-solving skills with an interest and ability to conduct analysis and report on findings.
+- Pro-active.
+- Ability to handle confidential information.
+- Fluency (written and verbal) in English is required.
+- Bachelor’s degree in Computer Science, Information Technology, Business Administration, Public Administration, or a related field
+- At least 5 years of experience in data management, data integration/backup, database development and data performance optimization
+- Experience with Software Development Lifecycle while implementing enterprise principles, concepts, practices, and current industry standards as they relate to application development
+- Experience designing, developing and maintaining applications using industry standard tools and development languages
+- Required languages at a minimum include Python, SQL, JSON, and PowerShell
+
 
 ### Preferred
-A concentration in Criminal Justice, Security and Intelligence, or a Business-related field.
-Fluency (written and verbal) in Spanish is desired.
-Experience or expertise in the area of OSINT, human trafficking, digital forensics, criminal organizations, fraud, or probation and parole.
-
+- A concentration in Criminal Justice, Security and Intelligence, or a Business-related field.
+- Fluency (written and verbal) in Spanish is desired.
+- Experience or expertise in the area of OSINT, human trafficking, digital forensics, criminal organizations, fraud, or probation and parole.
+- Experience in IT enterprise architecture
+- Experience with ERP systems
+- Experience with cloud management platforms
+- Experience with full stack ecosystem
+- Experience with APIs
+- Experience with Generative AI and/or Agentic AI pilots
 
 
 
 ### Responsibilities 
 
-Analyze data to establish trends within the facility and potential areas of interest
-Assist facility with investigations by utilizing specialized software provided for data mining and link analysis
-Monitor offender telephone calls
-Establish a fundamental understanding of the facility’s operation to include policies and procedures, and data sources available for analysis
-Demonstrate fundamental understanding of investigative and intelligence processes to include the intelligence cycle
-Proactively develop intelligence to assist in accomplishing facility objectives and mission
-Submit detailed reports to facility regarding intelligence findings
-Submit regular reports to superiors outlining level of support and benefit to facility
-Provide guidance and training to facility staff
-Fulfill requests for call recordings or other related data as authorized and requested
-Participation in court or other administrative related hearings
-Demonstrate a high level of confidentiality and meticulous attention to detail
-Ability to develop expertise in the area of OSINT, human trafficking, digital forensics, criminal organizations, fraud, probation and parole or other specialized area.
+- Analyze data to establish trends within the facility and potential areas of interest
+- Assist facility with investigations by utilizing specialized software provided for data mining and link analysis
+- Monitor offender telephone calls
+- Establish a fundamental understanding of the facility’s operation to include policies and procedures, and data sources available for analysis
+- Demonstrate fundamental understanding of investigative and intelligence processes to include the intelligence cycle
+- Proactively develop intelligence to assist in accomplishing facility objectives and mission
+- Submit detailed reports to facility regarding intelligence findings
+- Submit regular reports to superiors outlining level of support and benefit to facility
+- Provide guidance and training to facility staff
+- Fulfill requests for call recordings or other related data as authorized and requested
+- Participation in court or other administrative related hearings
+- Demonstrate a high level of confidentiality and meticulous attention to detail
+- Ability to develop expertise in the area of OSINT, human trafficking, digital forensics, criminal organizations, fraud, probation and parole or other specialized area.
