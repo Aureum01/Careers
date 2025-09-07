@@ -83,3 +83,88 @@
 - **Interactive BI Assistant** – Local model handles quick SQL/NLP queries; cloud model handles cross-org queries with heavier processing.  
 
 
+## 📊 Power BI Projects (25)
+1. Healthcare KPI Dashboard for patient engagement tracking.  
+2. Revenue Cycle Analytics dashboard with claims approval trends.  
+3. Patient No-Show Prediction dashboard with drill-down filters.  
+4. Financial Forecast Dashboard using Power BI predictive visuals.  
+5. Construction Project Timeline dashboard with Gantt-style visuals.  
+6. HR Attrition Analysis dashboard with demographic breakdowns.  
+7. Safety Incident Heatmap dashboard for construction operations.  
+8. Hospital Readmission Risk dashboard using historical data.  
+9. Supply Chain Performance dashboard with vendor risk scoring.  
+10. Executive KPI Summary dashboard (C-suite quick view).  
+11. Call Center Performance dashboard with sentiment scoring.  
+12. Equipment Utilization dashboard for rental fleet analysis.  
+13. Churn Prediction dashboard with Power BI AI Insights.  
+14. Expense vs. Revenue dashboard with automated variance alerts.  
+15. Sales Pipeline dashboard with funnel and stage conversion.  
+16. Healthcare Wait-Time dashboard showing bottlenecks by department.  
+17. Clinical Outcomes dashboard linking treatment to success rates.  
+18. Multi-Source BI dashboard merging SQL + Excel + APIs.  
+19. Claims Accuracy dashboard highlighting billing discrepancies.  
+20. Risk & Compliance dashboard with red/amber/green indicators.  
+21. Training Effectiveness dashboard for workforce development.  
+22. Forecast vs. Actual Revenue dashboard with rolling updates.  
+23. Cross-Department Performance dashboard with slicer filters.  
+24. Data Quality dashboard tracking completeness and integrity.  
+25. Real-Time Operations dashboard with streaming data integration.  
+
+---
+
+## 📈 Excel Projects (25)
+1. Patient Data Cleaning workbook with pivot-based analysis.  
+2. Automated Healthcare Metrics tracker using formulas + charts.  
+3. Revenue Cycle Analysis workbook with conditional formatting.  
+4. Claims Processing Error Log with heatmaps.  
+5. Patient Engagement KPI workbook with slicers for interactivity.  
+6. Hospital Staffing Model with scenario-based projections.  
+7. Monthly Financial Statements workbook with automated rollups.  
+8. Insurance Claim Validation workbook with rule-based checks.  
+9. Risk Assessment workbook with scoring matrix.  
+10. Churn Analysis workbook with historical data trends.  
+11. Safety Incident Log with pivot-table risk classification.  
+12. Equipment Maintenance Schedule workbook with Gantt view.  
+13. Survey Sentiment workbook with simple NLP integration.  
+14. Cost Overrun Tracker for construction project data.  
+15. Healthcare Compliance Tracker with audit logs.  
+16. HR Attrition Report workbook with pivot-based drilldowns.  
+17. Sales Forecast workbook with regression-based formulas.  
+18. Supply Chain Cost Analysis workbook with slicer filters.  
+19. Expense vs. Budget workbook with automated variance.  
+20. Hospital Admission Flow workbook with trend charts.  
+21. Readmission Tracking workbook with pivot visualizations.  
+22. Workflow Efficiency workbook with time-tracking inputs.  
+23. Patient No-Show Analysis workbook with trend lines.  
+24. IT System Uptime workbook with service-level indicators.  
+25. Multi-Department Dashboard workbook combining pivot tables.  
+
+---
+
+## ⚙️ VBA Projects (25)
+1. VBA-driven ETL script to pull SQL data into Excel.  
+2. Automated PDF Report Generator for BI summaries.  
+3. Dynamic PowerPoint Exporter from Excel metrics.  
+4. VBA Macro for Healthcare Data Validation with error logs.  
+5. Automated Claims Report Builder with chart outputs.  
+6. VBA-driven Risk Matrix generator with color coding.  
+7. Workflow Tracker with auto-updated timelines.  
+8. Sentiment Classification Macro for text-based survey data.  
+9. VBA Macro for Pivot Table Auto-Refresh & Rebuild.  
+10. Automated Patient Engagement Report macro (Excel → PDF).  
+11. Executive BI Summary emailer with Outlook integration.  
+12. VBA Macro for Anomaly Detection in transaction data.  
+13. Healthcare Staffing Forecast Macro with scenario options.  
+14. Compliance Checker macro for missing/invalid data.  
+15. VBA-driven Survey Dashboard with interactive charts.  
+16. Automated Monthly Expense vs. Budget report generator.  
+17. Healthcare Wait-Time Tracker with auto-alert macros.  
+18. VBA Macro for Real-Time Equipment Usage Logging.  
+19. Automated Risk Review Dashboard with colored indicators.  
+20. Macro for Cleaning & Standardizing Healthcare Claims data.  
+21. VBA Macro for Forecast vs. Actual report reconciliation.  
+22. Automated BI Workflow Macro for multi-sheet aggregation.  
+23. VBA-driven Hospital Readmission Analyzer.  
+24. Macro for Ad-hoc Report Validation (QA checks).  
+25. Interactive Userform for BI Queries (SQL input → Excel output).  
+
